@@ -13,10 +13,6 @@ This system uses a novel approach by combining text and visual information to pr
 ## Getting Started
 To get started with this project, clone this repository and follow the setup instructions below.
 
-### Prerequisites
-- Python 3.8+
-- PyTorch 1.7+
-
 ### Installation
 ```bash
 git clone https://github.com/himanshu-skid19/Multimodal-RAG-QA.git
