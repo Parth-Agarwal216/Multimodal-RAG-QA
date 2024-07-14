@@ -16,7 +16,6 @@ To get started with this project, clone this repository and follow the setup ins
 ### Prerequisites
 - Python 3.8+
 - PyTorch 1.7+
-- Datasets from [link to datasets]
 
 ### Installation
 ```bash
